@@ -1,2 +1,6 @@
 aqmaps-0.0.1-SNAPSHOT.jar
 copy_aqmaps_here.sh
+readings-*.geojson
+flightpath-*.txt
+test-*.txt
+summary.text
